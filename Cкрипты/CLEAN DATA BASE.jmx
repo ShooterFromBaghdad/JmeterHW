@@ -257,7 +257,7 @@
           <hashTree>
             <JDBCSampler guiclass="TestBeanGUI" testclass="JDBCSampler" testname="JDBC Request" enabled="true">
               <stringProp name="dataSource">MABOOK</stringProp>
-              <stringProp name="queryType">Select Statement</stringProp>
+              <stringProp name="queryType">Update Statement</stringProp>
               <stringProp name="query">DELETE FROM BOOK</stringProp>
               <stringProp name="queryArguments"></stringProp>
               <stringProp name="queryArgumentsTypes"></stringProp>
